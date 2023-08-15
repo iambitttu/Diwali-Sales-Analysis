@@ -25,7 +25,6 @@ The main objectives of this analysis are as follows:
 
 5. **Product Sales Analysis**: Determine the most selling product categories and specific products during the Diwali festival. Utilize bar plots or pie charts to visualize the sales quantities and identify the top-selling items.
 
-6. **Documentation**: Prepare a comprehensive documentation summarizing the steps involved in the analysis, along with the findings and insights obtained. Include visualizations and interpretations to effectively communicate the results.
 
 ## Conclusion
 The Diwali Sales Analysis project aims to improve customer experience and sales strategies by analyzing sales data during the festival. By performing data cleaning, exploratory data analysis, and visualization, we can gain insights into potential customers across different demographics and identify the most selling product categories and products. These insights will help optimize marketing strategies, plan inventory, and meet customer demands, leading to improved sales and customer satisfaction during the Diwali festival.
